@@ -14,6 +14,10 @@ def shipping_manifest
   return the_manifest
 end
 
+def retrieval
+  shipping_manifest["oil paintings"]
+end
+
 
 
 
