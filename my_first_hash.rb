@@ -1,4 +1,4 @@
 your_hash = {
-  cat => "Jan",
-  dog => "Finn"
+  "cat" => "Jan",
+  "dog" => "Finn"
 }
